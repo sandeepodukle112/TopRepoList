@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="something_went_wrong">Something went wrong..</string>
+    <string name="string_network_error">Please check your network connection</string>
+    <string name="retry">Retry</string>
+    <string name="toolbar_title">Sample App</string>
+    <string name="search">Search...</string>
+</resources>

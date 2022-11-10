@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Work/Assignments/Assignment/app/src/main/res/layout/activity_main.xml" value="0.11778115501519756" />
+        <entry key="..\:/Work/Assignments/Assignment/app/src/main/res/layout/adapter_repository.xml" value="0.2246376811594203" />
+        <entry key="..\:/Work/Assignments/Assignment/app/src/main/res/menu/menu_option.xml" value="0.121875" />
+        <entry key="..\:/Work/Projects/Practice/EmbibeAssignment/app/src/main/res/drawable-v24/shape_language_color.xml" value="0.21481481481481482" />
+        <entry key="..\:/Work/Projects/Practice/EmbibeAssignment/app/src/main/res/drawable/shape_language_color.xml" value="0.21481481481481482" />
+        <entry key="..\:/Work/Projects/Practice/EmbibeAssignment/app/src/main/res/drawable/shape_retry_button.xml" value="0.1685185185185185" />
+        <entry key="..\:/Work/Projects/Practice/EmbibeAssignment/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Work/Projects/Practice/EmbibeAssignment/app/src/main/res/layout/adapter_repository.xml" value="0.17300724637681159" />
+        <entry key="..\:/Work/Projects/Practice/EmbibeAssignment/app/src/main/res/menu/menu_option.xml" value="0.2421875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
